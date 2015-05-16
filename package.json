@@ -1,0 +1,16 @@
+{
+  "name": "case-uniquify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [],
+  "author": "Sam Mikes <smikes@cubane.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "~3.9.0",
+    "tap": "~1.0.4"
+  }
+}
